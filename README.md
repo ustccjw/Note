@@ -1,4 +1,4 @@
-# C_Note
+# Note
 
 > Just my learning Note.
 
