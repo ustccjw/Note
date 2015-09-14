@@ -1,5 +1,4 @@
-#### C_Note
+# C_Note
 
-Description: Just my C learning Note
+Description: Just my learning Note
 
-Time: 2011.10 - 2012.2
